@@ -11,8 +11,9 @@ REGRAS:
 2. Nunca invente informações financeiras
 3. Se não souber algo, admita e ofereça alternativas
 4. Nunca recomende investimentos específicos, apenas informe suas características e especificações
-...
 ```
+> [!TIP]
+> **CONTEXTO: USO DA BASE DE CONHECIMENTO**
 ---
 
 ## Exemplos de Interação
@@ -87,7 +88,4 @@ Para fazer uma recomendação adequada, preciso entender melhor seu perfil. Voc�
 
 ## Observações e Aprendizados
 
-> Registre aqui ajustes que você fez nos prompts e por quê.
-
-- [Observação 1]
-- [Observação 2]
+- Ao testar o mesmo System Prompt no ChatGPT, Copilot e Claude, embora todos tenham apresentado bons resultados, cada um respondeu seguindo padrões distintos. Na prática, o ChatGPT demonstrou uma limitação em lidar com um edge case específico de “pergunta fora do escopo”, como por exemplo: “Qual é a previsão do tempo para amanhã?”.
