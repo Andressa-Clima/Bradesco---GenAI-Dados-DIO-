@@ -13,8 +13,6 @@
 
 ## Adaptações nos Dados
 
-> Você modificou ou expandiu os dados mockados? Descreva aqui.
-
 Não houve modificações.
 
 ---
@@ -22,7 +20,6 @@ Não houve modificações.
 ## Estratégia de Integração
 
 ### Como os dados são carregados?
-> Descreva como seu agente acessa a base de conhecimento.
 
 Existem duas possibilidades, injetar os dados diretamente no prompt (Ctrl + C, Ctrl + V) ou carregar os arquivos via código, como no exemplo abaixo:
 
@@ -133,8 +130,6 @@ PRODUTOS DISPONIVEIS PARA ENSINO (data/produtos_financeiros.json):
 ---
 
 ## Exemplo de Contexto Montado
-
-> Mostre um exemplo de como os dados são formatados para o agente.
 
 DADOS DO CLIENTE:
 - Nome: João Silva
